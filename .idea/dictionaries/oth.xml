@@ -2,6 +2,9 @@
   <dictionary name="oth">
     <words>
       <w>devtool</w>
+      <w>eslint</w>
+      <w>transpile</w>
+      <w>transpiled</w>
     </words>
   </dictionary>
 </component>
