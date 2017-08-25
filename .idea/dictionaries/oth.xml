@@ -1,10 +1,22 @@
 <component name="ProjectDictionaryState">
   <dictionary name="oth">
     <words>
+      <w>addons</w>
+      <w>chunkhash</w>
       <w>devtool</w>
+      <w>dotenv</w>
+      <w>elint</w>
       <w>eslint</w>
+      <w>eslintcache</w>
+      <w>jscoverage</w>
+      <w>jsdom</w>
+      <w>jspm</w>
+      <w>pids</w>
+      <w>repl</w>
       <w>transpile</w>
       <w>transpiled</w>
+      <w>typings</w>
+      <w>wscript</w>
     </words>
   </dictionary>
 </component>
